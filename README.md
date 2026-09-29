@@ -1,1 +1,2 @@
 # SQL-project
+This SQL script analyzes email campaign performance and user activity by calculating key metrics broken down by date, country, and account status. It combines data from several tables covering accounts, web sessions, and email events (account, session, email_sent, etc.). The resulting output provides an aggregated summary of account counts alongside sent, opened, and clicked emails to evaluate conversion rates.
